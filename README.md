@@ -380,6 +380,17 @@ pip install -r requirements.txt
 - **TCP/IP Protocol Suite**: RFC standards (IETF)
 - **Port Numbers**: https://www.iana.org/assignments/service-names-port-numbers/
 
+## ⭐ Support
+
+If you found this project helpful:
+
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 🐛 Report bugs by opening an Issue
+- 💡 Share ideas for improvements
+
+Your support helps make this educational project better for everyone.
+
 ## 📄 License
 
 This project is licensed under the MIT License.
