@@ -14,7 +14,22 @@
 </p>
 
 ---
+## 📚 Table of Contents
 
+- [✨ Features](#-features)
+- [📖 About the Project](#-about-the-project)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Installation](#️-installation)
+- [🚀 Examples](#-examples)
+- [📦 Custom Usage](#-custom-usage)
+- [📊 Understanding the Output](#-understanding-the-output)
+- [🌐 Understanding Network Packets](#-understanding-network-packets)
+- [🎓 Learning Points](#-learning-points)
+- [🛠️ Troubleshooting](#-troubleshooting)
+- [🔮 Future Roadmap](#-future-roadmap)
+- [⚖️ Legal & Ethical Use](#️-legal--ethical-use)
+- [📄 License](#-license)
+- 
 ## 📖 About The Project
 
 Understanding how data travels across a network is one of the most important skills in cybersecurity and networking.
@@ -25,7 +40,7 @@ Whether you're a student, beginner, or cybersecurity enthusiast, this project pr
 
 > **Educational Purpose:** This project is intended for learning, experimentation, and authorized network analysis only.
 
-## Overview
+## ✨ Features
 
 This packet sniffer allows you to:
 - ✅ Capture network traffic in real-time
@@ -47,6 +62,23 @@ packet-sniffer-demo/
 ├── requirements.txt         # Python dependencies
 └── README.md               # This file
 ```
+## 🔮 Future Roadmap
+
+- [ ] Export captured packets to CSV
+- [ ] Save captures in PCAP format
+- [ ] Add a terminal dashboard
+- [ ] IPv6 packet support
+- [ ] Live traffic statistics
+- [ ] Graphical User Interface (GUI)
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python example_basic.py
+```
+
+That's all you need to capture your first packets.
 
 ## Installation
 
@@ -344,9 +376,11 @@ pip install -r requirements.txt
 - **TCP/IP Protocol Suite**: RFC standards (IETF)
 - **Port Numbers**: https://www.iana.org/assignments/service-names-port-numbers/
 
-## License
+## 📄 License
 
-This project is provided for educational purposes.
+This project is licensed under the MIT License.
+
+It is intended for educational purposes, ethical security research, and learning about computer networking. Always ensure you have permission before capturing or analyzing network traffic.
 
 ## Questions?
 
