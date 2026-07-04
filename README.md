@@ -1,6 +1,24 @@
-# Network Packet Sniffer
+# 🛡️ Python Network Packet Sniffer & Protocol Analyzer
 
-A comprehensive Python program to capture, analyze, and understand network traffic using Scapy.
+<p align="center">
+  <strong>Capture • Analyze • Learn • Secure</strong>
+</p>
+
+<p align="center">
+  A beginner-friendly cybersecurity project built with <strong>Python</strong>, <strong>Scapy</strong>, and <strong>Raw Sockets</strong> to capture, inspect, and understand live network traffic.
+</p>
+
+---
+
+## 📖 About The Project
+
+Understanding how data travels across a network is one of the most important skills in cybersecurity and networking.
+
+This project demonstrates how to capture live packets, inspect multiple network protocols, and analyze packet information using Python. It was built as an educational project to strengthen programming skills while learning how modern computer networks operate.
+
+Whether you're a student, beginner, or cybersecurity enthusiast, this project provides practical exposure to packet sniffing and protocol analysis.
+
+> **Educational Purpose:** This project is intended for learning, experimentation, and authorized network analysis only.
 
 ## Overview
 
