@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Python Packet Sniffer Banner">
+</p>
+
 # 🛡️ Python Network Packet Sniffer & Protocol Analyzer
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-Network%20Analysis-green)
