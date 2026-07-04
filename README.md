@@ -1,5 +1,10 @@
 # 🛡️ Python Network Packet Sniffer & Protocol Analyzer
-
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-Network%20Analysis-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Educational](https://img.shields.io/badge/Purpose-Educational-orange)
 <p align="center">
   <strong>Capture • Analyze • Learn • Secure</strong>
 </p>
